@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning Machine Learning.
 
-- 🤝 I’m looking for help with **UI/UX**
-
 - 📫 How to reach me **sowmya1642@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
