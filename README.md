@@ -9,7 +9,7 @@
 
 - 💬 Dicuss with me: **backend development, open-source and tech trends**
 
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning AWS, DevSecOps
 
 - 📫 How to reach me **sowmya1642@gmail.com**
 
